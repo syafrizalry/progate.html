@@ -43,7 +43,8 @@ header {
     list-style: none;
     position: relative;
     display: inline-table;
-    padding-inline-start: 0px;
+    /* padding-inline-start: 0px; */
+    margin-inline-start: 0px;
     /* width: 100%; */
  }
 
