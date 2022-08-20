@@ -34,11 +34,7 @@ header {
 }
 
 .header-right {
-    float:left;
-    background-color: rgba(34, 49, 52, 0.9);
-    padding: 0 15px;
-    margin: 0 auto;
-    
+    float:left;    
 } 
 
 .header-right ul {
@@ -46,8 +42,6 @@ header {
     list-style: none;
     position: relative;
     display: inline-table;
-    
-    /* width: 100%; */
  }
 
 .header-right ul li{
@@ -64,7 +58,7 @@ header {
 
 .header-right ul li a{
      display: block;
-     padding: 25px;
+     padding: 0px;
      color: #fff;
      text-decoration: none;
 }
