@@ -52,12 +52,3 @@ header {
     background-color: rgba(255, 255, 255, 0.5);
 }
 
-.header-right li{
-    list-style: none;
-}
-.header-right li {
-    line-height: 65px;
-    padding: 0 25px;
-    color: white;
-    display: block;
-}
