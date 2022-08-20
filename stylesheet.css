@@ -42,9 +42,8 @@ header {
 
 .header-right ul {
     background:#37988e;
-    padding: 0 20px;
     list-style: none;
-    position: absolute;
+    position: relative;
     display: inline-table;
     /* width: 100%; */
  }
