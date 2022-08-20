@@ -47,7 +47,7 @@ header {
     list-style: none;
     position: relative;
     display: inline-table;
-    width: 100%;
+    /* width: 100%; */
  }
 
 .header-right ul li{
