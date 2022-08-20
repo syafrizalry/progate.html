@@ -36,6 +36,8 @@ header {
 .header-right {
     float:left;
     background-color: rgba(34, 49, 52, 0.9);
+    padding: 0 15px;
+    margin: 0 auto;
     
 } 
 
