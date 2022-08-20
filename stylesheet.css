@@ -45,6 +45,7 @@ header {
     display: inline-table;
     /* padding-inline-start: 0px; */
     margin-inline-start: 0px;
+    margin-inline-end: 0px;
     /* width: 100%; */
  }
 
