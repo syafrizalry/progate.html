@@ -35,11 +35,12 @@ header {
 
 .header-right {
     float: left;
-    background-color: rgba(255, 255, 255, 0.3);
+    /* background-color: rgba(255, 255, 255, 0.3); */
     transition: all 0.5s;
 }
 
 .header-right ul {
+    transition: all 0.5s;
     background: #53bd84;
     padding: 0 20px;
     list-style: none;
