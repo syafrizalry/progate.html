@@ -22,6 +22,8 @@ header {
     background-color: rgba(34, 49, 52, 0.9);
 }
 
+
+
 .logo {
     width: 124px;
     margin-top: 20px;
@@ -36,6 +38,15 @@ header {
     background-color: rgba(255, 255, 255, 0.3);
     transition: all 0.5s;
 }
+
+.header-right ul {
+    background: #53bd84;
+    padding: 0 20px;
+    list-style: none;
+    position: relative;
+    display: inline-table;
+    width: 100%;
+   }
 
 .header-right:hover {
     background-color: rgba(255, 255, 255, 0.5);
