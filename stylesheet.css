@@ -54,10 +54,9 @@ header {
 
 .header-right ul li{
     float:left;
-    transition: all 0.5s;
 }
 
-nav ul li:hover{
+.header-right ul li:hover{
     background:#d68d9a;
 }
 
