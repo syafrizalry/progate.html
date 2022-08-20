@@ -34,6 +34,7 @@ header {
 }
 
 .header-right {
+    float:left;
     margin:auto;
     text-align: center;
     width: 100%;
