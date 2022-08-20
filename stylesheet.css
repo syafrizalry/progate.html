@@ -34,9 +34,36 @@ header {
 }
 
 .header-right {
-    float: left;
-    /* background-color: rgba(255, 255, 255, 0.3); */
-    transition: all 0.5s;
+    margin:auto;
+    text-align: center;
+    width: 100%;
+    font-family: arial;
+} 
+
+.header-right ul {
+    background:#37988e;
+    padding: 0 20px;
+    list-style: none;
+    position: relative;
+    display: inline-table;
+    width: 100%;
+ }
+
+.header-right ul li{
+    float:left;
 }
 
+.header-right ul li:hover{
+    background:#d68d9a;
+}
 
+.header-right ul li:hover a{
+     color:#000;
+}
+
+.header-right ul li a{
+     display: block;
+     padding: 25px;
+     color: #fff;
+     text-decoration: none;
+}
