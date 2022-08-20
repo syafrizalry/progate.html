@@ -42,6 +42,8 @@ header {
     list-style: none;
     position: relative;
     display: inline-table;
+    padding: 0;
+    list-style-type: none;
  }
 
 .header-right ul li{
@@ -58,7 +60,7 @@ header {
 
 .header-right ul li a{
      display: block;
-     padding: 20px;
+     padding: 5px;
      color: #fff;
      text-decoration: none;
 }
