@@ -42,7 +42,7 @@ header {
 }
 
 .header-right li{
-    text-decoration: none;
+    list-style: none;
 }
 .header-right li {
     line-height: 65px;
