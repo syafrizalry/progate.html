@@ -44,7 +44,7 @@ header {
     background:#37988e;
     padding: 0 20px;
     list-style: none;
-    /* position: relative; */
+    position: absolute;
     display: inline-table;
     /* width: 100%; */
  }
